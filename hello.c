@@ -8,6 +8,6 @@
 int main()
 {
     printf("Hello, GitHub!\n");
-    printf("Linux Git Programing LAB\n");
+
     return 0;
 }
